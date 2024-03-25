@@ -1,8 +1,2 @@
-# React + Vite
+![image](https://github.com/SahilPanigrahi/Password-Generator/assets/119133054/77a92da7-d436-4d63-bbb1-a0e5889eed9b)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
